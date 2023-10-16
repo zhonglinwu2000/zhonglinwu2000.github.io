@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Shenzhen, China"
 ---
 
-info
+I am a TA of this course. My duties of this course included homework correcting and teaching recitation classes. The supervisor of this course is Prof. Juexian Li.
