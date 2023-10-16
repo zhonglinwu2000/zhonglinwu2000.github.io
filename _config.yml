@@ -8,13 +8,13 @@
 # Site Settings
 
 locale                   : "en-US"
-title                    : "Lailaps2000"
+title                    : "莱拉普斯"
 title_separator          : "-"
-name                     : &name "Lailaps2000"
+name                     : &name "莱拉普斯"
 description              : &description "personal description"
-url                      : https://lailaps2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lailaps0713.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lailaps2000/lailaps2000.github.io"
+repository               : "lailaps0713/lailaps0713.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,10 +81,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lailaps2000"
+  name             : "莱拉普斯"
   avatar           : "profile.png"
-  bio              : "M.S. in SUSTech"
-  location         : "Shenzhen, China"
+  bio              : "为什么要演奏春日影"
+  location         : "深圳"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Lailaps2000"
+  github           : "lailaps0713"
   google_plus      :
   keybase          :
   instagram        :
