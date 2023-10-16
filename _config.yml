@@ -319,3 +319,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+# Collection
+collections:
+  writings:
+    output: true
+    permalink: /:collection/:path/
