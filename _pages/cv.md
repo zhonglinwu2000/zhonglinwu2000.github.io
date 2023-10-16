@@ -50,7 +50,7 @@ Work experience
   * Duties: building a general Machine Learning model for the company’s data platform.
 * 2021.04 - 2021.07, Huaxi Securities.
   * Duties: Realizing some quantitative trading model during my trainee period.
-    * Generalized an EM-algorithm for fitting HMM from discrete situation to continuous situation. My dissertation was also based on this result.
+    * Generalized an EM-algorithm for fitting HMM from discrete situation to continuous situation. My thesis was also based on this result.
     * Built a quantitative trading model based on Shapley value in Game Theory.
 * 2018.01 & 2018.08, Tianjin Municpipal Human Resources and Social Security Bureau.
 
