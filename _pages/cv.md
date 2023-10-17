@@ -44,7 +44,7 @@ Major awards
 ======
 * 2016.11,32nd CMO, Silver Medal 
 
-Skills
+Hobbies
 ======
 * Photography
 * Coffee brewing
