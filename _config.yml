@@ -7,7 +7,7 @@
 
 # Site Settings
 
-locale                   : "en-US"
+locale                   : "cn-CN"
 title                    : "莱拉普斯"
 title_separator          : "-"
 name                     : &name "莱拉普斯"
