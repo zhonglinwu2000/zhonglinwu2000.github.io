@@ -245,10 +245,9 @@ defaults:
       path: ""
       type: writings
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comment: true
   # _talks
   - scope:
       path: ""
