@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "画廊"
+permalink: /gallery/
+author_profile: false
+---
+
+{% include base_path %}
+
+
+{% for post in site.gallery reversed %}
+  {% include archive-single.html %}
+{% endfor %}
